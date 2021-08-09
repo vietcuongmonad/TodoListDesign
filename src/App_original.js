@@ -1,3 +1,4 @@
+/*
 import React from "react"
 import todosData from "./todosData"
 import TodoItem from "./TodoItem"
@@ -36,4 +37,4 @@ export default class App extends React.Component {
             </div>
         )
     }
-}
+}*/
